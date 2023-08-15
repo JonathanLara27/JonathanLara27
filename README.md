@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 
 ### Technologies I'm Familiar With:
 
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- Angular ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-- Angular Material ![Angular Material](https://img.icons8.com/color/48/000000/angularjs.png) <!-- You can replace this with the actual Angular Material icon -->
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- SCSS ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+- ![Angular Material]([https://img.icons8.com/color/48/000000/angularjs.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaterial.angularjs.org%2Flatest%2Fdemo%2Ficon&psig=AOvVaw0GM-jB6m8FYxD7SDsmsJA8&ust=1692214588479000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDokt2034ADFQAAAAAdAAAAABAE)) <!-- You can replace this with the actual Angular Material icon -->
+- ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
